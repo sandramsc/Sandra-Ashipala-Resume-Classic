@@ -12,7 +12,7 @@
 
 ### View Résumé/CV
 
-https://sajustsmile.github.io/Sandra-Ashipala-Resume/index.html
+https://sajustsmile.github.io/Sandra-Ashipala-Resume-Classic/
 
 <!-- GETTING STARTED -->
 
