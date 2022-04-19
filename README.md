@@ -10,6 +10,10 @@
 - HTML
 - Visual Studio Code
 
+### View Résumé/CV
+
+https://sajustsmile.github.io/Sandra-Ashipala-Resume/index.html
+
 <!-- GETTING STARTED -->
 
 ## Getting Started & Installation
