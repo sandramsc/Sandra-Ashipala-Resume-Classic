@@ -18,12 +18,4 @@ https://sandramsc.github.io/Sandra-Ashipala-Resume-Classic/
 
 ## Getting Started & Installation
 
-To get a local copy up and running:
-
-1. Clone the repo
-   ```sh
-   https://github.com/sandramsc/Sandra-Ashipala-Resume.git
-   ```
-2. View index.html file on localhost (i.e localhost:5500)
-
-<!-- USAGE EXAMPLES -->
+Updated Resume in classic HTML format
