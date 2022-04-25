@@ -16,6 +16,6 @@ https://sandramsc.github.io/Sandra-Ashipala-Resume-Classic/
 
 <!-- GETTING STARTED -->
 
-## Getting Started & Installation
+### About
 
 Updated Resume in classic HTML format
