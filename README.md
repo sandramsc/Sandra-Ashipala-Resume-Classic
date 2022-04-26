@@ -12,7 +12,7 @@
 
 ### View Résumé/CV
 
-https://sandramsc.github.io/Sandra-Ashipala-Resume-Classic/
+https://bit.ly/sandraaresume
 
 <!-- GETTING STARTED -->
 
