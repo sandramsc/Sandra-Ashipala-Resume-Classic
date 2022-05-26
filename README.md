@@ -4,15 +4,15 @@
     Sandra Ashipala Resume Classic
     <br />
     </h2>
+    
+ ### Résumé/CV
+
+[View Résumé](https://bit.ly/sandraaresume)
 
 ### Designed with
 
 - HTML
 - Visual Studio Code
-
-### View Résumé/CV
-
-https://bit.ly/sandraaresume
 
 <!-- GETTING STARTED -->
 
